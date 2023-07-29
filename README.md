@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pryce Tharpe!
+- 👋 Hi, I’m Pryce!
 - 📚 I'm studying Computer Engineering at Purdue University!
 - 👀 I’m interested in Computer Engineering and Science!
 - 🌱 I’m currently learning Python and C Programming!
