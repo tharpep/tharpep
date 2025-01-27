@@ -23,13 +23,13 @@ Here are some technologies I've been working with:
 
 ## 🔭 Current Projects
 
-1. **[Spotify Data Manager]**: Python project to explore Web API integration, AI integration, and data management. 
-2. **[DJ Pete]**: A beat sequencer using a stm32 to explore microcontrollers and project design.
-3. **[Coral Reef Area Mapper]**: A new project to create an underwater drone that maps coral reefs. This project I just joined, so looking forward to sharing more in the future!
+1. **Spotify Data Manager**: Python project to explore Web API integration, AI integration, and data management. 
+2. **DJ Pete**: A beat sequencer using a stm32 to explore microcontrollers and project design.
+3. **Coral Reef Area Mapper**: A new project to create an underwater drone that maps coral reefs. This project I just joined, so looking forward to sharing more in the future!
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [www.linkedin.com/in/pryce-tharpe]
+- LinkedIn: www.linkedin.com/in/pryce-tharpe
 - Email: tharpep@purdue.edu
 
 ---
