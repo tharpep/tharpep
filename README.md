@@ -17,15 +17,15 @@ Here are some technologies I've been working with:
 
 | Category | Technologies |
 |----------|--------------|
-| Languages | Python, C, C++, System Verilog |
-| Cloud Platforms | Azure |
-| Tools & Frameworks | Git/GitHub, Linux, Virtual Environments, Virtual Machines, CAD |
+| Languages | Python, C, C++, C#, System Verilog |
+| Cloud Platforms | Azure(Beginner) |
+| Tools & Frameworks | Git/GitHub, Linux, Virtual Environments, Virtual Machines, CAD(Beginner) |
 
 ## 🔭 Current Projects
 
 1. **Spotify Data Manager**: Python project to explore Web API integration, AI integration, and data management. 
 2. **DJ Pete**: A beat sequencer using a stm32 to explore microcontrollers and project design.
-3. **Coral Reef Area Mapper**: A new project to create an underwater drone that maps coral reefs. This project I just joined, so looking forward to sharing more in the future!
+
 
 ## 📫 Let's Connect!
 
