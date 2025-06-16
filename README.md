@@ -18,7 +18,7 @@ Here are some technologies I've been working with:
 | Category | Technologies |
 |----------|--------------|
 | Languages | Python, C, C++, C#, System Verilog |
-| Cloud Platforms | Azure(Beginner) |
+| Cloud Platforms | Azure |
 | Tools & Frameworks | Git/GitHub, Linux, Virtual Environments, Virtual Machines, CAD(Beginner) |
 
 ## 🔭 Current Projects
