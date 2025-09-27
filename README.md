@@ -23,8 +23,8 @@ Here are some technologies I've been working with:
 ## 🔭 Current Projects
 
 1.**MY-AI**: An AI/ML passion project to create a personal AI Assistant that uses RAG, LocalLLMs, and external connectors.
+
 2.**Spotify Data Manager**: Python project to explore Web API integration, AI integration, and data management. 
-3. 
 
 
 ## 📫 Let's Connect!
