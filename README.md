@@ -36,10 +36,12 @@ Technologies: TypeScript, Python, LLM Integration, Vector Databases, System Desi
 
 [Repository](https://github.com/tharpep/team35-seniordesign)
 
-### SimRAG: Retrieval-Augmented Generation Evaluation
-Research project evaluating RAG system performance across different retrieval strategies and LLM configurations. Developing reproducible methodologies for assessing RAG effectiveness in information retrieval and response generation.
+### ECE 570: SimRAG Reproduction
+Mini research project reproducing research on self-improving RAG systems and assessing RAG effectiveness in information retrieval and response generation.
 
 Technologies: Python, RAG, LLM Evaluation, Vector Search, Research Methodology
+
+*Repo private until course completion
 
 ## Current Focus
 
