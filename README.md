@@ -22,7 +22,7 @@ Technologies: Python, Docker, Pytest, RAG, LLM Integration, Agent Systems
 
 [Repository](https://github.com/tharpep/MY-AI)
 
-### ECE 461: ML Model Evaluation Platform
+### ML Model Evaluation Platform
 Full-stack FastAPI and Next.js application evaluating ML models and repositories across 12 metrics. Primary contribution: Designed and implemented complete AWS infrastructure from scratch including ECR, ECS/Fargate, S3 static hosting, CloudWatch observability, IAM roles, and zero-touch CI/CD with OIDC authentication. Also implemented 2 complex metrics: performance claims evaluation and reproducibility scoring using GenAI Studio API with retry logic and LLM fallbacks.
 
 Technologies: FastAPI, Next.js, AWS (ECS, ECR, S3, CloudWatch, Systems Manager), GitHub Actions
@@ -36,7 +36,7 @@ Technologies: TypeScript, Python, LLM Integration, Vector Databases, System Desi
 
 [Repository](https://github.com/tharpep/team35-seniordesign)
 
-### ECE 570: SimRAG Reproduction
+### SimRAG Reproduction
 Mini research project reproducing research on self-improving RAG systems and assessing RAG effectiveness in information retrieval and response generation.
 
 Technologies: Python, RAG, LLM Evaluation, Vector Search, Research Methodology
