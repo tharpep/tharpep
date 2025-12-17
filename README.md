@@ -2,7 +2,7 @@
 
 **Computer Engineering Student @ Purdue University** | Senior | Software Focus
 
-I'm building intelligent systems at the intersection of AI, cloud infrastructure, and full-stack development. Currently working as a Software Engineering Intern at Mesh Systems while developing AI systems and cloud architectures.
+I'm building intelligent systems at the intersection of AI, cloud infrastructure, and full-stack development. Currently working as a Software Engineering Intern at Mesh Systems while developing AI solutions.
 
 ## Tech Stack
 
@@ -16,32 +16,32 @@ I'm building intelligent systems at the intersection of AI, cloud infrastructure
 ## Featured Projects
 
 ### MY-AI: Personal AI Assistant Framework
-Python system with modular architecture for agents, RAG, LLM integration, and model tuning. Demonstrates AI engineering practices: retrieval-augmented generation for context-aware responses, unified LLM provider abstraction, model fine-tuning infrastructure, and comprehensive testing. Built with Docker, pytest, and modern Python packaging standards.
+Privacy-focused local-first AI assistant with RAG, tool integration, and custom model tuning capabilities.
 
-Technologies: Python, Docker, Pytest, RAG, LLM Integration, Agent Systems
+Technologies: Python, Docker, Pytest, RAG, LLM Integration
 
 [Repository](https://github.com/tharpep/MY-AI)
 
-### ML Model Evaluation Platform
-Full-stack FastAPI and Next.js application evaluating ML models and repositories across 12 metrics. Primary contribution: Designed and implemented complete AWS infrastructure from scratch including ECR, ECS/Fargate, S3 static hosting, CloudWatch observability, IAM roles, and zero-touch CI/CD with OIDC authentication. Also implemented 2 complex metrics: performance claims evaluation and reproducibility scoring using GenAI Studio API with retry logic and LLM fallbacks.
+### Trusted Model Registry
+Full-stack application for evaluating ML models and repositories, developed for ECE 30861.
 
-Technologies: FastAPI, Next.js, AWS (ECS, ECR, S3, CloudWatch, Systems Manager), GitHub Actions
+Technologies: FastAPI, Next.js, AWS, GitHub Actions
 
-[Repository](https://github.com/tharpep/461_repo)
+[Repository](https://github.com/tharpep/Trusted-Model-Registry)
 
 ### Senior Design: GenAI Subsystem
-Multi-team capstone project where I own the complete GenAI subsystem (100% responsibility). Building intelligent automation features integrating LLM-based analysis, vector databases, and context retrieval. Demonstrates system design at scale, multi-subsystem integration, and AI/ML engineering in production environments.
+GenAI subsystem for senior design capstone, featuring intelligent automation with LLMs and vector databases.
 
-Technologies: TypeScript, Python, LLM Integration, Vector Databases, System Design
+Technologies: TypeScript, Python, LLM Integration, Vector Databases
 
 [Repository](https://github.com/tharpep/team35-seniordesign)
 
 ### SimRAG Reproduction
-Mini research project reproducing research on self-improving RAG systems and assessing RAG effectiveness in information retrieval and response generation.
+Research reproduction study implementing similarity-based RAG techniques for information retrieval.
 
-Technologies: Python, RAG, LLM Evaluation, Vector Search, Research Methodology
+Technologies: Python, RAG, LLM Evaluation, Research
 
-*Repo private until course completion
+[Repository](https://github.com/tharpep/SimRAG-Reproduction)
 
 ## Current Focus
 
@@ -53,5 +53,3 @@ Technologies: Python, RAG, LLM Evaluation, Vector Search, Research Methodology
 
 - **Portfolio:** [prycetharpe.dev](https://prycetharpe.dev) | [Repository](https://github.com/tharpep/portfolio)
 - **LinkedIn:** [linkedin.com/in/pryce-tharpe](https://www.linkedin.com/in/pryce-tharpe)
-
----
