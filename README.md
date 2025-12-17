@@ -2,8 +2,6 @@
 
 **Computer Engineering Student @ Purdue University** | Senior | Software Focus
 
-I'm building intelligent systems at the intersection of AI, cloud infrastructure, and full-stack development. Currently working as a Software Engineering Intern at Mesh Systems while developing AI solutions.
-
 ## Tech Stack
 
 **Languages:** Python, C/C++, TypeScript, JavaScript, C#, SQL  
@@ -42,12 +40,6 @@ Research reproduction study implementing similarity-based RAG techniques for inf
 Technologies: Python, RAG, LLM Evaluation, Research
 
 [Repository](https://github.com/tharpep/SimRAG-Reproduction)
-
-## Current Focus
-
-- **Production AI Systems:** Building RAG-based architectures with local-first design and intelligent routing
-- **Cloud Infrastructure:** Designing scalable, cost-optimized deployments on AWS (ECS, Fargate, S3)
-- **AI Evaluation & Research:** Developing methodologies for reproducible LLM and RAG system assessment
 
 ## Connect
 
