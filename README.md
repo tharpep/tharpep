@@ -49,18 +49,6 @@ Technologies: Python, RAG, LLM Evaluation, Vector Search, Research Methodology
 - **Cloud Infrastructure:** Designing scalable, cost-optimized deployments on AWS (ECS, Fargate, S3)
 - **AI Evaluation & Research:** Developing methodologies for reproducible LLM and RAG system assessment
 
-## Experience
-
-**Software Engineering Intern** at Mesh Systems
-May 2025 to Present
-
-- **AI System Prompt Framework:** Co-developed master IDE prompt standardizing AI-assisted coding workflows across engineering teams. Led 2 company-wide training sessions and 17 individual check-ins.
-- **Azure ETL Pipeline:** Automated ETL pipeline with Microsoft Fabric and SQL, reducing monthly Azure reporting from 2-3 hours to 5-10 minutes (95% time reduction).
-- **Azure DevOps Sprint Scorecard Extension:** Designed and delivered an Azure DevOps extension with real-time sprint dashboards. Converted static HTML prototype into production-ready React/Next.js solution with backend integration. Technologies: React, Next.js, TypeScript, Azure Static Web Apps, Azure DevOps REST API.
-
-**Senior** at Purdue University
-Computer Engineering, graduation May 2026
-
 ## Connect
 
 - **Portfolio:** [prycetharpe.dev](https://prycetharpe.dev) | [Repository](https://github.com/tharpep/portfolio)
