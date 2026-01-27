@@ -5,11 +5,11 @@
 ## Tech Stack
 
 **Languages:** Python, C/C++, TypeScript, JavaScript, C#, SQL  
-**Cloud & DevOps:** AWS (ECS, ECR, S3, CloudWatch), Azure, GitHub Actions, Docker, CI/CD  
-**AI/ML:** LLM Integration, RAG, Prompt Engineering, Agent Systems, Model Tuning  
+**Cloud & DevOps:** AWS (ECS, ECR, S3, CloudWatch), Azure, GCP, GitHub Actions, Docker, CI/CD 
+**AI/ML:** LLM Integration, RAG, Prompt Engineering, Agent Systems, Model Tuning
 **Frontend:** React, Next.js, Tailwind CSS  
 **Backend:** FastAPI, Node.js, RESTful APIs  
-**Tools:** Git, GitHub, Docker, Linux, VS Code, Cursor
+**Tools:** Git, GitHub, Docker, Linux, VS Code, Cursor, 
 
 ## Featured Projects
 
@@ -30,7 +30,7 @@ Technologies: FastAPI, Next.js, AWS, GitHub Actions
 ### Senior Design: GenAI Subsystem
 GenAI subsystem for senior design capstone, featuring intelligent automation with LLMs and vector databases.
 
-Technologies: TypeScript, Python, LLM Integration, Vector Databases
+Technologies: TypeScript, Python, LLM Integration, Vector Databases, RAG
 
 [Repository](https://github.com/tharpep/team35-seniordesign)
 
