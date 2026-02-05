@@ -43,5 +43,5 @@ Technologies: Python, RAG, LLM Evaluation, Research
 
 ## Connect
 
-- **Portfolio:** [prycetharpe.dev](https://pryce-tharpe.dev) | [Repository](https://github.com/tharpep/portfolio)
+- **Portfolio:** [pryce-tharpe.dev](https://pryce-tharpe.dev) | [Repository](https://github.com/tharpep/portfolio)
 - **LinkedIn:** [linkedin.com/in/pryce-tharpe](https://www.linkedin.com/in/pryce-tharpe)
