@@ -13,12 +13,12 @@
 
 ## Featured Projects
 
-### MY-AI: Personal AI Assistant Framework
-Privacy-focused local-first AI assistant with RAG, tool integration, and custom model tuning capabilities.
+### Sazed: Personal AI Agent
+End-to-end personal AI agent with agentic tool use, persistent memory, streaming chat, and Claude Desktop integration via MCP.
 
-Technologies: Python, Docker, Pytest, RAG, LLM Integration
+Technologies: Python, Docker, Anthropic SDK, RAG, GCP Cloud Run, React
 
-[Repository](https://github.com/tharpep/MY-AI)
+[Repository](https://github.com/tharpep/sazed)
 
 ### Trusted Model Registry
 Full-stack application for evaluating ML models and repositories, developed for ECE 30861.
