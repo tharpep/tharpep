@@ -5,11 +5,11 @@
 ## Tech Stack
 
 **Languages:** Python, C/C++, TypeScript, JavaScript, C#, SQL  
-**Cloud & DevOps:** AWS (ECS, ECR, S3, CloudWatch), Azure, GCP, GitHub Actions, Docker, CI/CD 
-**AI/ML:** LLM Integration, RAG, Prompt Engineering, Agent Systems, Model Tuning
+**Cloud & DevOps:** AWS (ECS, ECR, S3, CloudWatch), Azure, GCP(Cloud Run and APIs), GitHub Actions, Docker, CI/CD
+**AI/ML:** LLM Integration, RAG, Prompt Engineering, Agentic Systems, Model Tuning
 **Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** FastAPI, Node.js, RESTful APIs  
-**Tools:** Git, GitHub, Docker, Linux, VS Code, Cursor, 
+**Backend:** FastAPI, FastMCP, Node.js, RESTful APIs
+**Tools:** Git, GitHub, Azure DevOps, Docker, Linux, VS Code, Cursor, Claude Code, Poetry
 
 ## Featured Projects
 
