@@ -1,29 +1,28 @@
 # Pryce Tharpe
 
-**Computer Engineering Student @ Purdue University** | Senior | Software Focus
-
+**Computer Engineering Student @ Purdue University** | Senior | Software Engineer
 ## Tech Stack
 
 **Languages:** Python, C/C++, TypeScript, JavaScript, C#, SQL  
 **Cloud & DevOps:** AWS (ECS, ECR, S3, CloudWatch), Azure, GCP(Cloud Run and APIs), GitHub Actions, Docker, CI/CD
-**AI/ML:** LLM Integration, RAG, Prompt Engineering, Agentic Systems, Model Tuning
+**AI/ML:** PyTorch, Hugging Face, LangChain, Anthropic SDK, Pandas, Numpy, Prompt Engineering
 **Frontend:** React, Next.js, Tailwind CSS  
 **Backend:** FastAPI, FastMCP, Node.js, RESTful APIs
-**Tools:** Git, GitHub, Azure DevOps, Docker, Linux, VS Code, Cursor, Claude Code, Poetry
+**Tools:** Git, GitHub, Azure DevOps, Docker, Linux/Bash, Jupyter/Colab, Poetry, LaTeX
 
 ## Featured Projects
 
 ### Sazed: Personal AI Agent
 End-to-end personal AI agent with agentic tool use, persistent memory, streaming chat, and Claude Desktop integration via MCP.
 
-Technologies: Python, Docker, Anthropic SDK, RAG, GCP Cloud Run, React
+Technologies: Python, Docker, LangChain, Anthropic SDK, RAG, GCP Cloud Run, React
 
 [Repository](https://github.com/tharpep/sazed)
 
 ### Trusted Model Registry
 Full-stack application for evaluating ML models and repositories, developed for ECE 30861.
 
-Technologies: FastAPI, Next.js, AWS, GitHub Actions
+Technologies: FastAPI, Next.js, AWS, GitHub Actions, Hugging Face
 
 [Repository](https://github.com/tharpep/Trusted-Model-Registry)
 
