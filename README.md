@@ -1,6 +1,5 @@
 # Pryce Tharpe
 
-**Computer Engineering Student @ Purdue University** | Senior | Software Engineer
 ## Tech Stack
 
 **Languages:** Python, C/C++, TypeScript, JavaScript, C#, SQL  
