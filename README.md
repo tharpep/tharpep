@@ -11,33 +11,26 @@
 
 ## Featured Projects
 
-### Sazed: Personal AI Agent
+### [Sazed: Personal AI Agent](https://github.com/tharpep/sazed)
 End-to-end personal AI agent with agentic tool use, persistent memory, streaming chat, and Claude Desktop integration via MCP.
 
 Technologies: Python, Docker, LangChain, Anthropic SDK, RAG, GCP Cloud Run, React
 
-[Repository](https://github.com/tharpep/sazed)
-
-### Trusted Model Registry
+### [Trusted Model Registry](https://github.com/tharpep/Trusted-Model-Registry)
 Full-stack application for evaluating ML models and repositories, developed for ECE 30861.
 
 Technologies: FastAPI, Next.js, AWS, GitHub Actions, Hugging Face
 
-[Repository](https://github.com/tharpep/Trusted-Model-Registry)
-
-### Senior Design: GenAI Subsystem
+### [Senior Design: GenAI Subsystem](https://github.com/tharpep/team35-seniordesign)
 GenAI subsystem for senior design capstone, featuring intelligent automation with LLMs and vector databases.
 
 Technologies: TypeScript, Python, LLM Integration, Vector Databases, RAG
 
-[Repository](https://github.com/tharpep/team35-seniordesign)
-
-### SimRAG Reproduction
+### [SimRAG Reproduction](https://github.com/tharpep/SimRAG-Reproduction)
 Research reproduction study implementing similarity-based RAG techniques for information retrieval.
 
 Technologies: Python, RAG, LLM Evaluation, Research
 
-[Repository](https://github.com/tharpep/SimRAG-Reproduction)
 
 ## Connect
 
