@@ -3,11 +3,11 @@
 ## Tech Stack
 
 **Languages:** Python, C/C++, TypeScript, JavaScript, C#, SQL  
-**Cloud & DevOps:** AWS (ECS, ECR, S3, CloudWatch), Azure, GCP(Cloud Run and APIs), GitHub Actions, Docker, CI/CD
-**AI/ML:** PyTorch, Hugging Face, LangChain, Anthropic SDK, Pandas, Numpy, Prompt Engineering
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** FastAPI, FastMCP, Node.js, RESTful APIs
-**Tools:** Git, GitHub, Azure DevOps, Docker, Linux/Bash, Jupyter/Colab, Poetry, LaTeX
+**Cloud & DevOps:** AWS (ECS, ECR, S3, CloudWatch), Azure, GCP(Cloud Run and APIs), GitHub Actions, Docker, CI/CD \
+**AI/ML:** PyTorch, Hugging Face, LangChain, Anthropic SDK, Pandas, Numpy, Prompt Engineering \
+**Frontend:** React, Next.js, Tailwind CSS \
+**Backend:** FastAPI, FastMCP, Node.js, RESTful APIs \
+**Tools:** Git, GitHub, Azure DevOps, Docker, Linux/Bash, Jupyter/Colab, Poetry, LaTeX 
 
 ## Featured Projects
 
